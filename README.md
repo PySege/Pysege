@@ -1,6 +1,5 @@
-## Pysege Programming Language
-PySege is a modern hybrid programming language designed to combine the best of both object-oriented and high-performance paradigms. Written in C++ and Java, PySege offers a robust foundation for building scalable applications, game engines, and complex systems where flexibility, speed, and cross-platform compatibility are critical.
+PySege is an open-source, modern programming language designed to combine the readability of Python with the structure and power of C#. Fully implemented in C#, PySege is optimized for rapid development, high performance, and cross-platform compatibility.
 
-PySege’s syntax is clean and expressive, inspired by Python's readability while maintaining the structural rigor of Java and the efficiency of C++. It supports advanced features such as multi-threading, modular  architecture, custom memory management, and native binding support.
+The language features clean, expressive syntax ideal for building scalable applications, game engines, and interactive systems. With support for multi-threading, modular architecture, advanced type systems, and seamless integration with .NET libraries, PySege empowers developers to build robust and efficient software.
 
-Whether you're developing interactive 3D environments, scripting high-performance logic, or designing tools with a rapid development cycle, PySege is engineered to be a powerful and adaptable solution for modern software development challenges.
+Whether you're creating real-time simulations, game development tools, or full-featured applications, PySege offers a flexible, developer-friendly environment backed by an active and open community.
