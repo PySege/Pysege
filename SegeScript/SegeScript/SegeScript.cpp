@@ -1,11 +1,10 @@
-﻿#include <iostream>
+#include <iostream>
 #include <sstream>
 #include <vector>
 #include <string>
 
 using namespace std;
 
-// Function to split the string into tokens by space
 vector<string> tokenize(const string& line) {
 	stringstream ss(line);
 	string token;
@@ -18,7 +17,6 @@ vector<string> tokenize(const string& line) {
 	return tokens;
 }
 
-// Function to interpret commands
 void parseAndExecute(const string& line) {
 	vector<string> tokens = tokenize(line);
 	if (tokens.empty()) return;
