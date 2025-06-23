@@ -1,0 +1,7 @@
+C:\programming lang\pysege\bin\Debug\pysege.exe.config
+C:\programming lang\pysege\bin\Debug\pysege.exe
+C:\programming lang\pysege\bin\Debug\pysege.pdb
+C:\programming lang\pysege\obj\Debug\pysege.csprojAssemblyReference.cache
+C:\programming lang\pysege\obj\Debug\pysege.csproj.CoreCompileInputs.cache
+C:\programming lang\pysege\obj\Debug\pysege.exe
+C:\programming lang\pysege\obj\Debug\pysege.pdb
