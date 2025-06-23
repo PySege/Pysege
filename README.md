@@ -1,2 +1,2 @@
-## PySege
+## pysege programming language
 
